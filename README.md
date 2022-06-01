@@ -18,10 +18,10 @@
 産後ケアアプリ「mwith」のアプリ開発をしています。
 
 <a href="https://github.com/takasshii/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=takasshii&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=takasshii&count_private=true&theme=dracula&show_icons=true" />
 </a>
 <a href="https://github.com/takasshii/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takasshii" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takasshii&layout=compact&count_private=true&theme=dracula&hide=c,assembly,makefile,openedge%20ABL,cython,jupyter%20notebook,objective-C&langs_count=8" />
 </a>
 
 <!--
