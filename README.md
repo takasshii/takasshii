@@ -15,7 +15,7 @@
   </a>
 </p>
 
-産後ケアアプリ「mwith」のアプリ開発をしています。
+ハードよりのAndroid開発をしています。
 
 <a href="https://github.com/takasshii/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=takasshii&count_private=true&theme=dracula&show_icons=true" />
